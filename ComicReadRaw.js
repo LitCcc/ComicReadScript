@@ -536,9 +536,11 @@ switch (location.hostname) {
   case 'copymanga.com':
   case 'copymanga.net':
   case 'copymanga.org':
+  case 'copymanga.site':
   case 'www.copymanga.info':
   case 'www.copymanga.net':
   case 'www.copymanga.org':
+  case 'www.copymanga.site':
   case 'www.copymanga.com':{
     '@@copymangaScript.@@';
     break;
