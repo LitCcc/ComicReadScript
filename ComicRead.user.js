@@ -2042,9 +2042,11 @@ if (ScriptMenu.UserSetting['漫画阅读'].Enable && MANGABZ_CID) {
   case 'copymanga.com':
   case 'copymanga.net':
   case 'copymanga.org':
+  case 'copymanga.site':
   case 'www.copymanga.info':
   case 'www.copymanga.net':
   case 'www.copymanga.org':
+  case 'www.copymanga.site':
   case 'www.copymanga.com':{
 
 
